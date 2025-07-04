@@ -51,8 +51,7 @@ We selectively grant **read-only access** to the private repo containing the ful
 - Community collaborators
 - Verified partners
 
-To request access, please [sponsor me](https://github.com/sponsors/848deepak) or reach out via [Mail](connect@codeuia.com).
-
+To request access, please [sponsor me](https://github.com/sponsors/848deepak) or reach out via [email](mailto:connect@codeunia.com).
 ---
 
 ## 📄 License
